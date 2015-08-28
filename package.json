@@ -1,0 +1,19 @@
+{
+  "name": "rpcify",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Express middleware to make any object function accesible over http",
+  "keywords": ["rpc", "object", "functions", "http"],
+  "dependencies": {
+    "lodash": "*"
+  },
+  "scripts": {
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BrighTide/rpcify.git"
+  },
+  "author": "Jarred Filmer",
+  "license": "MIT"
+}
